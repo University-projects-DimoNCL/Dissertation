@@ -1,7 +1,7 @@
 # Dissertation
 Analysis of CCTV data in order to characterize behaviors
 This repository contains the stream processing pipeline that I wrote for my dissertation.
-it requires Faust installed and python 3 to work. - https://faust.readthedocs.io/en/latest/
+It requires Faust installed and python 3 to work. - https://faust.readthedocs.io/en/latest/
 
 Quick overview of files:
 

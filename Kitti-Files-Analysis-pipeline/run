@@ -1,0 +1,2 @@
+python3 produce_Kitti_To_Stream.py --datadir=/home/dimo/PycharmProjects/WorkerDir1 worker  --web-port=6066
+python3 consumer_Kitti_stream.py  --datadir=/home/dimo/PycharmProjects/pythonProject/WorkerDir2 worker --web-port=6067
